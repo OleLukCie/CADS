@@ -14,6 +14,7 @@
 Cognitive Asymmetric Data Science (CADS) explores the design of data systems that remain fully interpretable to humans while becoming resistant to automated extraction and machine learning. This repository contains theoretical frameworks, experimental tools, and reference implementations for **semantic data protection**.
 
 **<u>*Do not aim for AI-unintelligible systems, but for systems where AI learning costs vastly exceed gains.*</u>**
+<img width="2508" height="929" alt="map" src="https://github.com/user-attachments/assets/05785e0f-e1f0-4ee9-89ee-f7bd1c948343" />
 
 ### Core Insight
 
@@ -130,5 +131,6 @@ CADS is designed for **legitimate protection of intellectual labor**, not for:
 ## License
 
 MIT License - See *LICENSE* for details.
+
 
 **Disclaimer**: This project explores emerging concepts in data protection. The techniques described may not provide legal protection against data scraping or training. Consult legal counsel for compliance with applicable regulations (GDPR, CCPA, etc.).
